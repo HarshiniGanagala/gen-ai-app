@@ -1,0 +1,15 @@
+# Secret API Keys
+.streamlit/secrets.toml
+
+# Python stuff
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
